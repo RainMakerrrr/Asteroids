@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 353d78479f7540a2b172f1278057f865, type: 3}
+  m_Name: Fisrt Style Prefabs
+  m_EditorClassIdentifier: 
+  _player: {fileID: 2640810210711228207, guid: 9f3b2b9e8f66c4642aa3effc351a79dc, type: 3}
+  _asteroids:
+  - {fileID: 2988328671325888356, guid: 3bf9828660476f54f8b59ab23bb14210, type: 3}
+  - {fileID: 7257678035292691536, guid: c7fe45e2304982a42b2ec09a6a0b6c98, type: 3}
+  - {fileID: 2913131122570479216, guid: 1247a62ba1153f24fa3de83b801a6afe, type: 3}
+  - {fileID: 3731823186042064849, guid: d7cf0f0b385859746a5ce9c6b3d641bc, type: 3}
+  - {fileID: 2764516209295113783, guid: 3adfe6b876932b04cbbf11473312dcc5, type: 3}
+  - {fileID: 2988276868968515858, guid: 239434e48fbb71f489861e5c8659a309, type: 3}
+  _flyingSaucer: {fileID: 4697754907225158318, guid: 96e516b27d1580544813f54b0e642f5a, type: 3}
+  _bullet: {fileID: 5246805980226416977, guid: aa3b26a25e28599419428884f7ce5177, type: 3}
